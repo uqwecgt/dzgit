@@ -1,0 +1,4 @@
+1.Open page
+2.Scroll right
+3.Scroll left
+4.Download file
